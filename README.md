@@ -1,4 +1,4 @@
-'''text
+
 Planänderungen
 ---------------
 ✓ Termin entfällt: 2027-05-07
