@@ -1,15 +1,90 @@
+Nachschreiber 0.8.7
+--------------------
+✓ Schoolmanager-Lehrkräfte insgesamt: 189
+✓ Mit regulärem Unterricht A/B:       101
+✓ Mit SchoolPublisher-Karteikarte:    93
+✓ Manuell ausgeschlossen:             6
+✓ Manuell zusätzlich aufgenommen:     0
+✓ Im aktuellen Aufsichtspool:         87
+
+Manuell ausgeschlossen:
+  BURK     Claudia Burkhardt [schulleitung_befreit]
+  FZ       Simon Fezer [schulleitung]
+  KNL      Matthias Kunle [schulleitung]
+  NOC      Matthieu Nocher [kv_kraefte]
+  Oes      Kira Oesterle [referendare]
+  TRB      Vanessa Traub [kv_kraefte]
+✓ Nachschreibetermine:                56
+✓ Zu besetzende Aufsichtseinsätze:    82
+
+✓ Dienstag einsetzbar: 60
+✓ Freitag einsetzbar:  59
+✓ Prüfliste: C:\Users\c.johrend\PycharmProjects\Nachschreiber_0.8.7\output\einsatzmoeglichkeiten.csv
+
+✓ Vorjahres-Einsätze eingelesen: 90
+✓ Aktuelle Lehrkräfte mit Vorjahreszuordnung: 71
+✓ Neu oder nicht automatisch zugeordnet:      16
+
+Vorjahresnamen ohne sicheren aktuellen Treffer:
+
+  Simon Fezer  (Vorjahreseinsätze: 1)
+     -> BES      Monika Besemer
+     -> ZEU      Sanja Zeuner
+     -> REUT     Sebastian Reutter
+     -> DT       Sonngard Dieterle
+
+  Kathrin Gekeler  (Vorjahreseinsätze: 1)
+     -> HIL      Katrin Hiller
+     -> ROM      Karolin Rommel
+     -> KÜS      Martin Küspert
+     -> PLAN     Kristina Planer
+
+  Andres Kilian  (Vorjahreseinsätze: 2)
+     -> ASCHM    Andreas A. Schmid
+     -> KATZ     Maren Katz
+     -> WEG      Andreas Wegmer
+     -> VE       Andreas Vetter
+
+  Miriam Rother  (Vorjahreseinsätze: 1)
+     -> WUR      Sarah Wurster
+     -> STB      Annamaria Strobel
+     -> RTH      Sina Rietheimer
+     -> KOCH     Marius Koch
+
+  Tamara Streich  (Vorjahreseinsätze: 1)
+     -> STB      Annamaria Strobel
+     -> FÖL      Marcel Frölich
+     -> STO      Markus Stoschek
+     -> WUR      Sarah Wurster
+
+  Martin Link-Wolters  (Vorjahreseinsätze: 1)
+     -> KÜS      Martin Küspert
+     -> BLU      Martin Blubacher
+     -> HIL      Katrin Hiller
+     -> PLAN     Kristina Planer
+
+Falls eine Person noch im Kollegium ist, trage sie in
+C:\Users\c.johrend\PycharmProjects\Nachschreiber_0.8.7\data\vorjahres_zuordnung.json
+als  "Vorjahresname": "AKTUELLES_KÜRZEL"  ein.
+
+Plansperre
+----------
+✓ Bestehender veröffentlichter Plan wird unverändert verwendet.
+  Keine Neuberechnung der Einteilung.
+  Neue Planung nur mit: python src\main.py --neu-planen
 
 Planänderungen
 ---------------
+✓ Termin entfällt: 2026-12-08
 ✓ Termin entfällt: 2027-05-07
 ✓ Termin entfällt: 2027-07-16
 ✓ Termin entfällt: 2027-07-20
 ✓ Termin entfällt: 2027-07-23
 ✓ Termin entfällt: 2027-07-27
 ✓ Tausch: ABR 2027-07-02 ↔ FRI 2027-02-05
-✓ Tausch: CA 2027-04-06 ↔ ZEU 2027-03-23
 ✓ Ersetzung: REUT → LSCHM am 2027-03-05
 ✓ Intern ausgeplant: REUT, VOM
+✓ Fairness-Gutschrift: HEN (entfallener Termin 2026-12-08)
 ✓ Fairness-Gutschrift: SCHO (entfallener Termin 2027-05-07)
 ✓ Fairness-Gutschrift: KLP (entfallener Termin 2027-07-16)
 ✓ Fairness-Gutschrift: SBE (entfallener Termin 2027-07-16)
@@ -22,8 +97,8 @@ Planänderungen
 Datumsgenaue Planungsdiagnose
 -----------------------------
 Pool insgesamt:                 87
-Mindestens einmal eingesetzt:   74
-Nicht eingesetzt:               13
+Mindestens einmal eingesetzt:   73
+Nicht eingesetzt:               14
 Mehrfach eingesetzt:            8
 Dreimal oder öfter eingesetzt:  0
 
@@ -33,6 +108,7 @@ Nicht eingesetzte / freigestellte Lehrkräfte und Zahl konkreter möglicher Term
   GEI      Wieland Greiner-Ude            | Di  0 | Fr  0
   GRK      Sabine Garke                   | Di 30 | Fr 26
   HAG      Benjamin Hagelstein            | Di 30 | Fr 13
+  HEN      Dorothea Henning               | Di 30 | Fr 26
   KOCH     Marius Koch                    | Di  0 | Fr  0
   MAI      Oliver Maile                   | Di 30 | Fr 26
   MH       Andrea Mayer-Haas              | Di  0 | Fr  0
