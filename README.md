@@ -1,4 +1,4 @@
-
+```text
 Nachschreiber 0.8.7
 --------------------
 ✓ Schoolmanager-Lehrkräfte insgesamt: 189
