@@ -1,3 +1,4 @@
+
 Nachschreiber 0.8.7
 --------------------
 ✓ Schoolmanager-Lehrkräfte insgesamt: 189
@@ -82,6 +83,8 @@ Planänderungen
 ✓ Termin entfällt: 2027-07-23
 ✓ Termin entfällt: 2027-07-27
 ✓ Tausch: ABR 2027-07-02 ↔ FRI 2027-02-05
+✓ Tausch: BÜ 2026-11-20 ↔ SHI 2027-05-11
+✓ Tausch: BÜ 2027-07-09 ↔ ZEU 2027-03-23
 ✓ Ersetzung: REUT → LSCHM am 2027-03-05
 ✓ Intern ausgeplant: REUT, VOM
 ✓ Fairness-Gutschrift: HEN (entfallener Termin 2026-12-08)
