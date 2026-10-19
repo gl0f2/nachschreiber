@@ -26,44 +26,6 @@ Manuell ausgeschlossen:
 ✓ Aktuelle Lehrkräfte mit Vorjahreszuordnung: 71
 ✓ Neu oder nicht automatisch zugeordnet:      16
 
-Vorjahresnamen ohne sicheren aktuellen Treffer:
-
-  Simon Fezer  (Vorjahreseinsätze: 1)
-     -> BES      Monika Besemer
-     -> ZEU      Sanja Zeuner
-     -> REUT     Sebastian Reutter
-     -> DT       Sonngard Dieterle
-
-  Kathrin Gekeler  (Vorjahreseinsätze: 1)
-     -> HIL      Katrin Hiller
-     -> ROM      Karolin Rommel
-     -> KÜS      Martin Küspert
-     -> PLAN     Kristina Planer
-
-  Andres Kilian  (Vorjahreseinsätze: 2)
-     -> ASCHM    Andreas A. Schmid
-     -> KATZ     Maren Katz
-     -> WEG      Andreas Wegmer
-     -> VE       Andreas Vetter
-
-  Miriam Rother  (Vorjahreseinsätze: 1)
-     -> WUR      Sarah Wurster
-     -> STB      Annamaria Strobel
-     -> RTH      Sina Rietheimer
-     -> KOCH     Marius Koch
-
-  Tamara Streich  (Vorjahreseinsätze: 1)
-     -> STB      Annamaria Strobel
-     -> FÖL      Marcel Frölich
-     -> STO      Markus Stoschek
-     -> WUR      Sarah Wurster
-
-  Martin Link-Wolters  (Vorjahreseinsätze: 1)
-     -> KÜS      Martin Küspert
-     -> BLU      Martin Blubacher
-     -> HIL      Katrin Hiller
-     -> PLAN     Kristina Planer
-
 Falls eine Person noch im Kollegium ist, trage sie in
 C:\Users\c.johrend\PycharmProjects\Nachschreiber_0.8.7\data\vorjahres_zuordnung.json
 als  "Vorjahresname": "AKTUELLES_KÜRZEL"  ein.
