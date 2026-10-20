@@ -1,6 +1,9 @@
+## Programmausgabe
+
 ```text
 Nachschreiber 0.8.7
---------------------
+===================
+
 ✓ Schoolmanager-Lehrkräfte insgesamt: 189
 ✓ Mit regulärem Unterricht A/B:       101
 ✓ Mit SchoolPublisher-Karteikarte:    93
