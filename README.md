@@ -47,6 +47,7 @@ Planänderungen
 ✓ Tausch: ABR 2027-07-02 ↔ FRI 2027-02-05
 ✓ Tausch: BÜ 2026-11-20 ↔ SHI 2027-05-11
 ✓ Tausch: BÜ 2027-07-09 ↔ ZEU 2027-03-23
+✓ Tausch: ABR 2026-11-03 ↔ SBE 2026-11-06
 ✓ Ersetzung: REUT → LSCHM am 2027-03-05
 ✓ Intern ausgeplant: REUT, VOM
 ✓ Fairness-Gutschrift: HEN (entfallener Termin 2026-12-08)
@@ -68,7 +69,7 @@ Mehrfach eingesetzt:            8
 Dreimal oder öfter eingesetzt:  0
 
 Nicht eingesetzte / freigestellte Lehrkräfte und Zahl konkreter möglicher Termine:
-  ASCHM    Andreas A. Schmid              | Di  0 | Fr  0
+  ASCHM    Andreas Schmid                 | Di  0 | Fr  0
   BES      Monika Besemer                 | Di 16 | Fr 13
   GEI      Wieland Greiner-Ude            | Di  0 | Fr  0
   GRK      Sabine Garke                   | Di 30 | Fr 26
